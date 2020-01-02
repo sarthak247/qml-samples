@@ -1,0 +1,16 @@
+# ninja log v5
+0	33	1576628389	CMakeFiles/helloWorld_autogen	464baebd1cb37411
+0	33	1576628389	helloWorld_autogen/mocs_compilation.cpp	464baebd1cb37411
+0	33	1576628389	helloWorld_autogen/EWIEGA46WW/qrc_qml.cpp	464baebd1cb37411
+34	57	1576628430	CMakeFiles/helloWorld.dir/helloWorld_autogen/mocs_compilation.cpp.o	a2712f7aa9ffdbc0
+35	73	1576628430	CMakeFiles/helloWorld.dir/helloWorld_autogen/EWIEGA46WW/qrc_qml.cpp.o	9cf7bddb7d4f6af4
+34	1688	1576628432	CMakeFiles/helloWorld.dir/main.cpp.o	a2b395523b02e1f4
+1689	2221	1576628432	helloWorld	9546dfee15db915f
+1	17	1576628389	CMakeFiles/helloWorld_autogen	464baebd1cb37411
+1	17	1576628389	helloWorld_autogen/mocs_compilation.cpp	464baebd1cb37411
+1	17	1576628389	helloWorld_autogen/EWIEGA46WW/qrc_qml.cpp	464baebd1cb37411
+1	22	1576628974	CMakeFiles/helloWorld_autogen	464baebd1cb37411
+1	22	1576628974	helloWorld_autogen/mocs_compilation.cpp	464baebd1cb37411
+1	22	1576628974	helloWorld_autogen/EWIEGA46WW/qrc_qml.cpp	464baebd1cb37411
+22	57	1576628974	CMakeFiles/helloWorld.dir/helloWorld_autogen/EWIEGA46WW/qrc_qml.cpp.o	9cf7bddb7d4f6af4
+58	495	1576628975	helloWorld	9546dfee15db915f

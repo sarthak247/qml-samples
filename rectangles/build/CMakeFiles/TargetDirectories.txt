@@ -1,0 +1,4 @@
+/home/sarthak/qtcreator/rectangles/build/CMakeFiles/rebuild_cache.dir
+/home/sarthak/qtcreator/rectangles/build/CMakeFiles/rectangles.dir
+/home/sarthak/qtcreator/rectangles/build/CMakeFiles/edit_cache.dir
+/home/sarthak/qtcreator/rectangles/build/CMakeFiles/rectangles_autogen.dir

@@ -1,0 +1,4 @@
+/home/sarthak/qtcreator/build-helloWorld-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/sarthak/qtcreator/build-helloWorld-Desktop-Debug/CMakeFiles/helloWorld.dir
+/home/sarthak/qtcreator/build-helloWorld-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/sarthak/qtcreator/build-helloWorld-Desktop-Debug/CMakeFiles/helloWorld_autogen.dir

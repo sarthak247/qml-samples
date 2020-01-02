@@ -1,0 +1,4 @@
+/home/sarthak/qtcreator/build-imports-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/sarthak/qtcreator/build-imports-Desktop-Debug/CMakeFiles/imports.dir
+/home/sarthak/qtcreator/build-imports-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/sarthak/qtcreator/build-imports-Desktop-Debug/CMakeFiles/imports_autogen.dir

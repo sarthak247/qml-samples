@@ -1,0 +1,4 @@
+/home/sarthak/qtcreator/build-properties-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/sarthak/qtcreator/build-properties-Desktop-Debug/CMakeFiles/properties.dir
+/home/sarthak/qtcreator/build-properties-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/sarthak/qtcreator/build-properties-Desktop-Debug/CMakeFiles/properties_autogen.dir

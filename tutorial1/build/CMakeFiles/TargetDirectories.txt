@@ -1,0 +1,14 @@
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/install/strip.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/install.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/rebuild_cache.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/edit_cache.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/install/local.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/test.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/fetch-translations.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/KF5WidgetsAddons_QCH.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/uninstall.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/KF5CoreAddons_QCH.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/KF5I18n_QCH.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/list_install_components.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/tutorial1.dir
+/home/sarthak/qtcreator/tutorial1/build/CMakeFiles/tutorial1_autogen.dir

@@ -1,0 +1,4 @@
+/home/sarthak/qtcreator/build-images-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/sarthak/qtcreator/build-images-Desktop-Debug/CMakeFiles/images.dir
+/home/sarthak/qtcreator/build-images-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/sarthak/qtcreator/build-images-Desktop-Debug/CMakeFiles/images_autogen.dir

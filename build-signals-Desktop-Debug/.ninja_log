@@ -1,0 +1,18 @@
+# ninja log v5
+0	28	1576713510	CMakeFiles/signals_autogen	2690a66d2f2422ec
+0	28	1576713510	signals_autogen/mocs_compilation.cpp	2690a66d2f2422ec
+0	28	1576713510	signals_autogen/EWIEGA46WW/qrc_qml.cpp	2690a66d2f2422ec
+29	48	1576713511	CMakeFiles/signals.dir/signals_autogen/mocs_compilation.cpp.o	936cccac7dd8f5e4
+29	62	1576713511	CMakeFiles/signals.dir/signals_autogen/EWIEGA46WW/qrc_qml.cpp.o	3ebe4253dc8066ac
+28	1331	1576713512	CMakeFiles/signals.dir/main.cpp.o	976f94668d2ece13
+1332	1729	1576713512	signals	830c3e513a635426
+1	17	1576713614	CMakeFiles/signals_autogen	2690a66d2f2422ec
+1	17	1576713614	signals_autogen/mocs_compilation.cpp	2690a66d2f2422ec
+1	17	1576713614	signals_autogen/EWIEGA46WW/qrc_qml.cpp	2690a66d2f2422ec
+17	48	1576713616	CMakeFiles/signals.dir/signals_autogen/EWIEGA46WW/qrc_qml.cpp.o	3ebe4253dc8066ac
+48	378	1576713617	signals	830c3e513a635426
+2	20	1576713652	CMakeFiles/signals_autogen	2690a66d2f2422ec
+2	20	1576713652	signals_autogen/mocs_compilation.cpp	2690a66d2f2422ec
+2	20	1576713652	signals_autogen/EWIEGA46WW/qrc_qml.cpp	2690a66d2f2422ec
+20	47	1576713655	CMakeFiles/signals.dir/signals_autogen/EWIEGA46WW/qrc_qml.cpp.o	3ebe4253dc8066ac
+47	388	1576713655	signals	830c3e513a635426
